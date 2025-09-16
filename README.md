@@ -44,7 +44,8 @@ We welcome contributions, feedback, and collaboration:
 ---
 
 ## 📄 License
-MIT License. See [LICENSE](LICENSE) for details.
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
 
 ### 📂 Planned Project Structure
 
