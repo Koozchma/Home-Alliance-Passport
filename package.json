@@ -1,0 +1,22 @@
+{
+  "name": "home-alliance-passport",
+  "version": "0.1.0",
+  "description": "A digital homeowner vault for managing property information, repair logs, and insurance access — built as the foundation of the Home Alliance ecosystem.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "home",
+    "alliance",
+    "passport",
+    "maintenance",
+    "PWA"
+  ],
+  "author": "Home Alliance",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
