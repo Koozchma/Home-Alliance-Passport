@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest"
+    "dev": "nodemon src/index.js",
+    "build": "echo \"(placeholder) no build step yet\"",
+    "test": "jest --passWithNoTests"
   },
   "keywords": [
     "home",
@@ -17,6 +19,7 @@
   "author": "Home Alliance",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.0.0"
+    "jest": "^29.0.0",
+    "nodemon": "^3.1.0"
   }
 }
