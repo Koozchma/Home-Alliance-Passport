@@ -1,4 +1,6 @@
-# Home Alliance Passport 
+# Home Alliance Passport
+
+[![Node.js CI](https://github.com/Koozchma/Home-Alliance-Passport/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Koozchma/Home-Alliance-Passport/actions/workflows/nodejs.yml)
 
 A digital homeowner vault for managing property information, repair logs, and insurance access — built as the foundation of the Home Alliance ecosystem.
 
